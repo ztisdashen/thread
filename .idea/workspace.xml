@@ -2,47 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14097081-80db-4009-890a-389f6579dd0c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/csdn/teat_object/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/csdn/teat_object/ObjectService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/csdn/teat_object/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/csdn/teat_object/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/csdn/test_staticOrclass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/csdn/test_staticOrclass/ObjectService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/csdn/test_staticOrclass/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/csdn/test_staticOrclass/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/csdn/test_this/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/csdn/test_this/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/csdn/test_this/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/csdn/test_this/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t1/T.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t2/T.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t3/T.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t4/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/thread.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/csdn/teat_object/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/csdn/teat_object/ObjectService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/csdn/teat_object/ThreadA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/csdn/teat_object/ThreadB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/csdn/test_staticOrclass/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/csdn/test_staticOrclass/ObjectService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/csdn/test_staticOrclass/ThreadA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/csdn/test_staticOrclass/ThreadB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/csdn/test_this/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/csdn/test_this/Service.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/csdn/test_this/ThreadA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/csdn/test_this/ThreadB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mrma/t1/T.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mrma/t2/T.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mrma/t3/T.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mrma/t4/Account.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thread.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t10/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t11/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t5/DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t5/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t6/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t7/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t8/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t8/T2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t8/T3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t9/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neusoft/app10_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neusoft/homework/work1/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neusoft/homework/work1/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neusoft/homework/work1/ThreadC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neusoft/homework/work1/Work1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neusoft/homework/work2/Work2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neusoft/homework/work3/Work3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neusoft/homework/work4/Work4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mrma/t1/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t1/T.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mrma/t2/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t2/T.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mrma/t1/T.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mrma/t1/T.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mrma/t2/T.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mrma/t2/T.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mrma/t4/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mrma/t4/Account.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -53,28 +40,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mrma/t3/T.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mrma/t11/T.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mrma/t4/Account.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-              <folding>
-                <element signature="e#962#963#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -84,17 +58,27 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CoffeeScript File" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>i</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="zt648" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/mrma/t1/T.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/csdn/test_this/ThreadA.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/csdn/test_this/ThreadB.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/csdn/test_this/Main.java" />
@@ -109,9 +93,32 @@
         <option value="$PROJECT_DIR$/src/main/java/com/csdn/test_staticOrclass/ThreadB.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/csdn/test_staticOrclass/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/csdn/test_staticOrclass/ObjectService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mrma/t2/T.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mrma/t3/T.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mrma/t4/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mrma/t5/T.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mrma/t5/DeadLock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mrma/t6/T.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mrma/t7/T.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mrma/t2/T.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mrma/t1/T.java" />
+        <option value="$PROJECT_DIR$/方法.coffee" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mrma/t8/T.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neusoft/app10_10.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neusoft/homework/Work1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neusoft/homework/work1/ThrandA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neusoft/homework/work1/TrandB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neusoft/homework/work1/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neusoft/homework/work1/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neusoft/homework/work1/ThreadC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neusoft/homework/work2/Work2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neusoft/homework/work1/Work1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neusoft/homework/work3/Work3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neusoft/homework/work4/Work4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mrma/t8/T3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mrma/t8/T2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mrma/t9/T.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mrma/t10/T.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mrma/t11/T.java" />
       </list>
     </option>
   </component>
@@ -131,7 +138,9 @@
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -178,17 +187,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="csdn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="thread" type="b2602c69:ProjectViewProjectNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="csdn" type="462c0819:PsiDirectoryNode" />
-              <item name="test_this" type="462c0819:PsiDirectoryNode" />
+              <item name="mrma" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="thread" type="b2602c69:ProjectViewProjectNode" />
@@ -198,6 +197,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="mrma" type="462c0819:PsiDirectoryNode" />
+              <item name="t11" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -211,9 +211,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -232,52 +238,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Account">
-    <configuration name="Account" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mrma.t4.Account" />
-      <module name="thread" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mrma.t4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.csdn.teat_object.Main" />
-      <module name="thread" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.csdn.teat_object.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.csdn.test_staticOrclass.Main" />
-      <module name="thread" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.csdn.test_staticOrclass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.T (1)">
     <configuration name="T (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mrma.t2.T" />
+      <option name="MAIN_CLASS_NAME" value="com.mrma.t10.T" />
       <module name="thread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mrma.t2.*" />
+          <option name="PATTERN" value="com.mrma.t10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,12 +252,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mrma.t3.T" />
+    <configuration name="T" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mrma.t9.T" />
       <module name="thread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mrma.t3.*" />
+          <option name="PATTERN" value="com.mrma.t9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mrma.t8.T3" />
+      <module name="thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mrma.t8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Work3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neusoft.homework.work3.Work3" />
+      <module name="thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neusoft.homework.work3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Work4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neusoft.homework.work4.Work4" />
+      <module name="thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neusoft.homework.work4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,11 +306,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Account" />
-        <item itemvalue="Application.T (2)" />
         <item itemvalue="Application.T (1)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.T" />
+        <item itemvalue="Application.T3" />
+        <item itemvalue="Application.Work4" />
+        <item itemvalue="Application.Work3" />
       </list>
     </recent_temporary>
   </component>
@@ -319,12 +325,22 @@
       <option name="presentableId" value="Default" />
       <updated>1563153692019</updated>
       <workItem from="1563153694857" duration="115000" />
-      <workItem from="1563153840771" duration="8331000" />
+      <workItem from="1563153840771" duration="14487000" />
+      <workItem from="1563171265560" duration="20000" />
+      <workItem from="1563171342106" duration="7618000" />
     </task>
+    <task id="LOCAL-00001" summary="wu">
+      <created>1563163824358</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563163824358</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8446000" />
+    <option name="totallyTimeSpent" value="22240000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -337,28 +353,28 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13941018" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5685997" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.4362606" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.80311614" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" side_tool="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.5679887" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.6926346" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -368,10 +384,109 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="9" side_tool="true" weight="0.3297587" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13941018" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.5679887" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.80311614" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.5679887" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.6926346" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="9" side_tool="true" weight="0.3297587" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="wu" />
+    <option name="LAST_COMMIT_MESSAGE" value="wu" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mrma/t5/T.java</url>
+          <line>34</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mrma/t9/T.java</url>
+          <line>31</line>
+          <properties class="com.mrma.t9.T" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -389,13 +504,6 @@
             <element signature="e#20527#20528#0" expanded="true" />
             <element signature="e#20570#20571#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mrma/t1/T.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -466,13 +574,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mrma/t2/T.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/csdn/test_this/Service.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -494,6 +595,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mrma/t5/DeadLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mrma/t5/T.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#743#744#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mrma/t7/T.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mrma/t3/T.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mrma/t6/T.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mrma/t4/Account.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -504,22 +650,271 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="jar://D:/java/jdk/lib/src.zip!/java.base/java/lang/NoSuchMethodError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="40" column="47" lean-forward="true" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk/lib/src.zip!/java.base/java/lang/IncompatibleClassChangeError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="36" column="46" lean-forward="true" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk/lib/src.zip!/java.base/java/lang/LinkageError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+          <folding>
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+            <element signature="e#941#942#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mrma/t2/T.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk/lib/src.zip!/java.base/java/lang/Error.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk/lib/src.zip!/java.base/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1640">
+          <caret line="106" column="10" selection-start-line="106" selection-start-column="10" selection-end-line="106" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/方法.coffee">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mrma/t3/T.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mrma/t1/T.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        <state relative-caret-position="616">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mrma/t8/T.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neusoft/homework/work1/ThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+          <folding>
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neusoft/homework/work1/ThreadC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+          <folding>
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neusoft/homework/work1/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+          <folding>
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neusoft/homework/work1/Work1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="78" column="5" lean-forward="true" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neusoft/app10_10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="50" column="20" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="20" />
+          <folding>
+            <element signature="e#887#888#0" expanded="true" />
+            <element signature="e#919#920#0" expanded="true" />
+            <element signature="e#1298#1299#0" expanded="true" />
+            <element signature="e#1330#1331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neusoft/homework/work2/Work2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="77" column="44" lean-forward="true" selection-start-line="77" selection-start-column="44" selection-end-line="77" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neusoft/homework/work3/Work3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neusoft/homework/work4/Work4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mrma/t8/T2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mrma/t8/T3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mrma/t9/T.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mrma/t10/T.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mrma/t11/T.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>thread</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.33498514" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

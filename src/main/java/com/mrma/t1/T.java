@@ -13,13 +13,13 @@ public class T implements Runnable{
     private  int count = 10;
 
     /**
-     * run()方法中没有添加synchronized,同步方法导致会有多个线程同时访问run方法，使count--没有同步。
-     * thread 4  count：5
-     * thread 8  count：0
-     * thread 9  count：0
-     * thread 7  count：2
-     * thread 6  count：3
-     * thread 3  count：4
+     * <p>run()方法中没有添加synchronized,同步方法导致会有多个线程同时访问run方法，使count--没有同步。</p>
+     * <p>thread 4  count：5</p>
+     * <p>thread 8  count：0</p>
+     * <p>thread 9  count：0</p>
+     * <p>thread 7  count：2</p>
+     * <p>thread 6  count：3</p>
+     * <p>thread 3  count：4</p>
      * thread 2  count：7
      * thread 1  count：8
      * thread 0  count：9
@@ -53,6 +53,5 @@ public class T implements Runnable{
         for(int i = 0;i<5;i++){
             new Thread(t,"thread "+ i).start();
         }
-
     }
 }
