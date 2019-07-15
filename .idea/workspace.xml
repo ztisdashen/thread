@@ -2,34 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14097081-80db-4009-890a-389f6579dd0c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t10/T.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t11/T.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t5/DeadLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t5/T.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t6/T.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t7/T.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t8/T.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t8/T2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t8/T3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t9/T.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/neusoft/app10_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/neusoft/homework/work1/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/neusoft/homework/work1/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/neusoft/homework/work1/ThreadC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/neusoft/homework/work1/Work1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/neusoft/homework/work2/Work2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/neusoft/homework/work3/Work3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/neusoft/homework/work4/Work4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t11/T2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t11/T3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t11/T4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mrma/t1/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t1/T.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mrma/t2/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t2/T.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mrma/t1/T.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mrma/t1/T.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mrma/t2/T.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mrma/t2/T.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mrma/t4/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mrma/t4/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mrma/t11/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mrma/t11/T.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -44,11 +22,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mrma/t11/T.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="168">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1193#1194#0" expanded="true" />
+                <element signature="e#1227#1228#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mrma/t11/T2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="70" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1819#1820#0" expanded="true" />
+                <element signature="e#1878#1879#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mrma/t11/T3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="70" column="1" selection-start-line="70" selection-start-column="1" selection-end-line="76" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1792#1793#0" expanded="true" />
+                <element signature="e#1819#1820#0" expanded="true" />
+                <element signature="e#1844#1845#0" expanded="true" />
+                <element signature="e#1878#1879#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mrma/t11/T4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#550#551#0" expanded="true" />
+                <element signature="e#577#578#0" expanded="true" />
+                <element signature="e#602#603#0" expanded="true" />
+                <element signature="e#636#637#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -119,6 +148,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/mrma/t9/T.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mrma/t10/T.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mrma/t11/T.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mrma/t11/T2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mrma/t11/T3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mrma/t11/T4.java" />
       </list>
     </option>
   </component>
@@ -238,7 +270,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.T (1)">
+  <component name="RunManager" selected="Application.T4">
     <configuration name="T (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mrma.t10.T" />
       <module name="thread" />
@@ -252,12 +284,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mrma.t9.T" />
+    <configuration name="T (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mrma.t11.T" />
       <module name="thread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mrma.t9.*" />
+          <option name="PATTERN" value="com.mrma.t11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,12 +297,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mrma.t8.T3" />
+    <configuration name="T2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mrma.t11.T2" />
       <module name="thread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mrma.t8.*" />
+          <option name="PATTERN" value="com.mrma.t11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,12 +310,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Work3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.neusoft.homework.work3.Work3" />
+    <configuration name="T3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mrma.t11.T3" />
       <module name="thread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.neusoft.homework.work3.*" />
+          <option name="PATTERN" value="com.mrma.t11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,12 +323,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Work4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.neusoft.homework.work4.Work4" />
+    <configuration name="T4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mrma.t11.T4" />
       <module name="thread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.neusoft.homework.work4.*" />
+          <option name="PATTERN" value="com.mrma.t11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -306,11 +338,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T4" />
+        <item itemvalue="Application.T3 (1)" />
+        <item itemvalue="Application.T2" />
+        <item itemvalue="Application.T (2)" />
         <item itemvalue="Application.T (1)" />
-        <item itemvalue="Application.T" />
-        <item itemvalue="Application.T3" />
-        <item itemvalue="Application.Work4" />
-        <item itemvalue="Application.Work3" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +359,7 @@
       <workItem from="1563153694857" duration="115000" />
       <workItem from="1563153840771" duration="14487000" />
       <workItem from="1563171265560" duration="20000" />
-      <workItem from="1563171342106" duration="7618000" />
+      <workItem from="1563171342106" duration="13425000" />
     </task>
     <task id="LOCAL-00001" summary="wu">
       <created>1563163824358</created>
@@ -336,11 +368,18 @@
       <option name="project" value="LOCAL" />
       <updated>1563163824358</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second">
+      <created>1563179082206</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563179082206</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22240000" />
+    <option name="totallyTimeSpent" value="28047000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -355,7 +394,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13941018" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13941018" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -464,7 +503,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="wu" />
-    <option name="LAST_COMMIT_MESSAGE" value="wu" />
+    <MESSAGE value="second" />
+    <option name="LAST_COMMIT_MESSAGE" value="second" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -477,6 +517,12 @@
           </properties>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mrma/t11/T.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/mrma/t9/T.java</url>
           <line>31</line>
@@ -484,6 +530,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mrma/t11/T2.java</url>
+          <line>16</line>
+          <properties class="com.mrma.t11.T2" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -833,10 +887,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://D:/java/jdk/lib/src.zip!/java.base/java/net/SocketInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="92" column="23" selection-start-line="92" selection-start-column="23" selection-end-line="92" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mrma/t11/T.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="168">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1193#1194#0" expanded="true" />
+            <element signature="e#1227#1228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mrma/t11/T2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="70" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1819#1820#0" expanded="true" />
+            <element signature="e#1878#1879#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mrma/t11/T3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="70" column="1" selection-start-line="70" selection-start-column="1" selection-end-line="76" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1792#1793#0" expanded="true" />
+            <element signature="e#1819#1820#0" expanded="true" />
+            <element signature="e#1844#1845#0" expanded="true" />
+            <element signature="e#1878#1879#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mrma/t11/T4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
